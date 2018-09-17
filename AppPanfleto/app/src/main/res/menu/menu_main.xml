@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <item
+        android:id="@+id/itemtemas"
+        android:title="@string/temas"
+        />
+    <item
+        android:id="@+id/itemActivs"
+        android:title="@string/Actividades"
+        />
+    <item
+        android:id="@+id/itemEval"
+        android:title="@string/eval"
+        />
+    <item
+        android:id="@+id/itemProgress"
+        android:title="@string/progress"
+        />
+</menu>

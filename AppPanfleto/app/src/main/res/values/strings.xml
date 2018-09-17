@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AppPanfleto</string>
+    <string name="temas">Temas</string>
+    <string name="Actividades">Temas</string>
+    <string name="eval">Evaluacion</string>
+    <string name="progress">Progreso</string>
+    <string name="tema_conten">tema_conten</string>
+    <string name="activs_didec">activs_didec</string>
+    <string name="eval_usuario">eval_usuario</string>
+    <string name="progress_usuario">progress_usuario</string>
+</resources>
